@@ -1,0 +1,13 @@
+﻿sk_servico,nome_servico,categoria_servico,complexidade,preco_medio_mao_obra_min,preco_medio_mao_obra_max,gera_recompra
+1,Revisão Programada,Manutenção Preventiva,Baixo,350,650,True
+2,Troca de Óleo,Manutenção Preventiva,Baixo,120,250,False
+3,Alinhamento/Balanceamento,Manutenção Preventiva,Baixo,80,180,False
+4,Troca de Freios,Manutenção Corretiva,Médio,300,700,False
+5,Reparo Elétrico,Manutenção Corretiva,Alto,400,1200,False
+6,Reparo de Motor,Manutenção Corretiva,Alto,800,3500,False
+7,Recall,Recall,Baixo,0,0,False
+8,Instalação de Acessórios,Acessórios,Médio,200,1500,False
+9,Funilaria/Pintura,Sinistro,Alto,600,4000,False
+10,Revisão Pré-Venda,Inspeção,Baixo,200,400,True
+11,Diagnóstico Eletrônico,Diagnóstico,Médio,150,350,False
+12,Ar Condicionado,Manutenção Corretiva,Médio,250,600,False

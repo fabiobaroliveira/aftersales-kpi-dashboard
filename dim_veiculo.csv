@@ -1,0 +1,85 @@
+﻿sk_veiculo,modelo,tipo_carroceria,combustivel,segmento,ano_modelo,faixa_preco
+1,Onix,Hatch,Flex,Compacto,2018,Entrada
+2,Onix,Hatch,Flex,Compacto,2019,Entrada
+3,Onix,Hatch,Flex,Compacto,2020,Entrada
+4,Onix,Hatch,Flex,Compacto,2021,Entrada
+5,Onix,Hatch,Flex,Compacto,2022,Entrada
+6,Onix,Hatch,Flex,Compacto,2023,Entrada
+7,Onix,Hatch,Flex,Compacto,2024,Entrada
+8,Onix Plus,Sedan,Flex,Compacto,2018,Médio
+9,Onix Plus,Sedan,Flex,Compacto,2019,Médio
+10,Onix Plus,Sedan,Flex,Compacto,2020,Médio
+11,Onix Plus,Sedan,Flex,Compacto,2021,Médio
+12,Onix Plus,Sedan,Flex,Compacto,2022,Médio
+13,Onix Plus,Sedan,Flex,Compacto,2023,Médio
+14,Onix Plus,Sedan,Flex,Compacto,2024,Médio
+15,Tracker,SUV,Flex,SUV,2018,Médio
+16,Tracker,SUV,Flex,SUV,2019,Médio
+17,Tracker,SUV,Flex,SUV,2020,Médio
+18,Tracker,SUV,Flex,SUV,2021,Médio
+19,Tracker,SUV,Flex,SUV,2022,Médio
+20,Tracker,SUV,Flex,SUV,2023,Médio
+21,Tracker,SUV,Flex,SUV,2024,Médio
+22,Equinox,SUV,Flex,SUV,2018,Premium
+23,Equinox,SUV,Flex,SUV,2019,Premium
+24,Equinox,SUV,Flex,SUV,2020,Premium
+25,Equinox,SUV,Flex,SUV,2021,Premium
+26,Equinox,SUV,Flex,SUV,2022,Premium
+27,Equinox,SUV,Flex,SUV,2023,Premium
+28,Equinox,SUV,Flex,SUV,2024,Premium
+29,Montana,Pick-up,Flex,Pick-up,2018,Médio
+30,Montana,Pick-up,Flex,Pick-up,2019,Médio
+31,Montana,Pick-up,Flex,Pick-up,2020,Médio
+32,Montana,Pick-up,Flex,Pick-up,2021,Médio
+33,Montana,Pick-up,Flex,Pick-up,2022,Médio
+34,Montana,Pick-up,Flex,Pick-up,2023,Médio
+35,Montana,Pick-up,Flex,Pick-up,2024,Médio
+36,S10,Pick-up,Flex,Pick-up,2018,Médio
+37,S10,Pick-up,Flex,Pick-up,2019,Médio
+38,S10,Pick-up,Flex,Pick-up,2020,Médio
+39,S10,Pick-up,Flex,Pick-up,2021,Médio
+40,S10,Pick-up,Flex,Pick-up,2022,Médio
+41,S10,Pick-up,Flex,Pick-up,2023,Médio
+42,S10,Pick-up,Flex,Pick-up,2024,Médio
+43,Trailblazer,SUV,Flex,SUV,2018,Premium
+44,Trailblazer,SUV,Flex,SUV,2019,Premium
+45,Trailblazer,SUV,Flex,SUV,2020,Premium
+46,Trailblazer,SUV,Flex,SUV,2021,Premium
+47,Trailblazer,SUV,Flex,SUV,2022,Premium
+48,Trailblazer,SUV,Flex,SUV,2023,Premium
+49,Trailblazer,SUV,Flex,SUV,2024,Premium
+50,Spin,Minivan,Flex,Minivan,2018,Entrada
+51,Spin,Minivan,Flex,Minivan,2019,Entrada
+52,Spin,Minivan,Flex,Minivan,2020,Entrada
+53,Spin,Minivan,Flex,Minivan,2021,Entrada
+54,Spin,Minivan,Flex,Minivan,2022,Entrada
+55,Spin,Minivan,Flex,Minivan,2023,Entrada
+56,Spin,Minivan,Flex,Minivan,2024,Entrada
+57,Bolt EV,Hatch,Elétrico,Compacto,2018,Médio
+58,Bolt EV,Hatch,Elétrico,Compacto,2019,Médio
+59,Bolt EV,Hatch,Elétrico,Compacto,2020,Médio
+60,Bolt EV,Hatch,Elétrico,Compacto,2021,Médio
+61,Bolt EV,Hatch,Elétrico,Compacto,2022,Médio
+62,Bolt EV,Hatch,Elétrico,Compacto,2023,Médio
+63,Bolt EV,Hatch,Elétrico,Compacto,2024,Médio
+64,Blazer EV,SUV,Elétrico,SUV,2018,Premium
+65,Blazer EV,SUV,Elétrico,SUV,2019,Premium
+66,Blazer EV,SUV,Elétrico,SUV,2020,Premium
+67,Blazer EV,SUV,Elétrico,SUV,2021,Premium
+68,Blazer EV,SUV,Elétrico,SUV,2022,Premium
+69,Blazer EV,SUV,Elétrico,SUV,2023,Premium
+70,Blazer EV,SUV,Elétrico,SUV,2024,Premium
+71,Cruze,Sedan,Flex,Sedan,2018,Médio
+72,Cruze,Sedan,Flex,Sedan,2019,Médio
+73,Cruze,Sedan,Flex,Sedan,2020,Médio
+74,Cruze,Sedan,Flex,Sedan,2021,Médio
+75,Cruze,Sedan,Flex,Sedan,2022,Médio
+76,Cruze,Sedan,Flex,Sedan,2023,Médio
+77,Cruze,Sedan,Flex,Sedan,2024,Médio
+78,Cobalt,Sedan,Flex,Sedan,2018,Entrada
+79,Cobalt,Sedan,Flex,Sedan,2019,Entrada
+80,Cobalt,Sedan,Flex,Sedan,2020,Entrada
+81,Cobalt,Sedan,Flex,Sedan,2021,Entrada
+82,Cobalt,Sedan,Flex,Sedan,2022,Entrada
+83,Cobalt,Sedan,Flex,Sedan,2023,Entrada
+84,Cobalt,Sedan,Flex,Sedan,2024,Entrada
